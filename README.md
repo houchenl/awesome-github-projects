@@ -2,9 +2,11 @@
 收集整理github中遇到的好仓库  
 
 ## Android
-[wcdb][5] WCDB is a cross-platform database framework developed by WeChat.  
+[wcdb][5]  
+WCDB is a cross-platform database framework developed by WeChat.  
 
-[RxJava][6] RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.  
+[RxJava][6]  
+RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.  
 
 ## Machine Learning
 [自上而下的学习路线: 软件工程师的机器学习][3]  
