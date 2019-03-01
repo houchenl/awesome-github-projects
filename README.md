@@ -2,6 +2,10 @@
 # github_map
 收集整理github中遇到的好仓库  
 
+## Awesome
+[**awesome**][18]  
+😎 Awesome lists about all kinds of interesting topics  
+
 ## Android
 [**wcdb**][5]  
 WCDB is a cross-platform database framework developed by WeChat.  
@@ -76,3 +80,4 @@ A complete daily plan for studying to become a machine learning engineer.
 [15]: https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 [16]: http://www.recyclerview.org/
 [17]: https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
+[18]: https://github.com/sindresorhus/awesome
