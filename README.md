@@ -7,60 +7,8 @@
 Implementation of Algorithms and Data Structures, Problems and Solutions [http://sherxon.com](http://sherxon.com)  
 
 
-## Android
-[**wcdb**][5]  
-WCDB is a cross-platform database framework developed by WeChat.  
+## [Android](./Android.md)
 
-[**RxJava**][6]  
-RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.  
-
-[**coolweatherjetpack**][8]  
-酷欧天气的Jetpack版本实现，采用了MVVM架构。  
-
-[**expandable-recycler-view**][9]  
-Custom Android RecyclerViewAdapters that collapse and expand. [Introducing ExpandableRecyclerView][10]  
-
-[**ChipsLayoutManager**][11]  
-ANDROID. ChipsLayoutManager (SpanLayoutManager, FlowLayoutManager). A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features  
-
-[**PinnedSectionItemDecoration**][12]  
-A powerful ItemDecoration for Recyclerview, supports the common layoutmanager.  
-
-[**DragListView**][13]  
-Drag and drop to reorder items in a list, grid or board for Android. Based on RecyclerView. Also supports swiping items in a list.  
-
-[**BaseRecyclerViewAdapterHelper**][15]  
-BRVAH:Powerful and flexible RecyclerAdapter. [http://www.recyclerview.org/][16]  
-
-[**ZoomPreviewPicture**][19]  
-拓展性极高类似微信图片和视频浏览,常见应用场景如微信朋友圈照片九宫格和微信聊天图片图片,视频,gif预览  
-
-[**AndroidNote**][23]  
-安卓学习笔记 [http://www.gcssloop.com/#blog](http://www.gcssloop.com/#blog)  
-
-[**flutter**][28]  
-Flutter makes it easy and fast to build beautiful mobile apps. [https://flutter.io](https://flutter.io)  
-
-[**UVCCamera**][37]  
-library and sample to access to UVC web camera on non-rooted Android device  
-
-[**android-Ultra-Pull-To-Refresh**][39]  
-Ultra Pull to Refresh for Android. Support all the views.  
-
-[**android-common**][40]  
-Android Common Utils or Helper. Such as Log, Averager, Base64, Check, FlashLight, KeyguardLock, LogReader, Network, SilentInstaller, TimeAverager, TimeCounter, Toastor, WakeLock, ScreenReceiver, SmsReceiver, PhoneReceiver, NotificationService, AndroidUtil, AppUtil, BitmapUtil, ByteUtil, ClassUtil, DialogUtil, FieldUtil, FileUtil, HexUtil, MD5Util  
-
-[**Matisse**][41]  
-A well-designed local image and video selector for Android  
-
-[**UltimateAndroidReference**][42]  
-Ultimate Android Reference - Your Road to Become a Better Android Developer  
-
-[**RxjavaRetrofitDemo**][43]  
-A demo show how to use Retrofit with Rxjava  
-
-[**retrofit**][45]  
-Type-safe HTTP client for Android and Java by Square, Inc. [http://square.github.io/retrofit/](http://square.github.io/retrofit/)  
 
 
 ## Artificial Intelligence
