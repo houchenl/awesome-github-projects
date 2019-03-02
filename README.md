@@ -6,6 +6,9 @@
 [**AlgoDS**][41]  
 Implementation of Algorithms and Data Structures, Problems and Solutions [http://sherxon.com](http://sherxon.com)  
 
+[**Play-with-Data-Structures**][48]  
+我在慕课网上的课程《Java语言玩转数据结构》示例代码。课程的更多更新内容及辅助练习也将逐步添加进这个代码仓。  
+
 
 ## [Android](./Android.md)
 
@@ -47,6 +50,9 @@ Simple and comprehensive tutorials in TensorFlow [http://www.easy-tensorflow.com
 ## Java
 [**Java学习面试指南**][22]  
 一份涵盖大部分Java程序员所需要掌握的核心知识。  
+
+[**JCSprout**][50]  
+👨‍🎓 Java Core Sprout : basic, concurrent, algorithm [https://crossoverjie.top/JCSprout](https://crossoverjie.top/JCSprout)  
 
 [**jsonschema2pojo**][44]  
 Generate Java types from JSON or JSON Schema and annotates those types for data-binding with Jackson, Gson, etc [http://www.jsonschema2pojo.org](http://www.jsonschema2pojo.org)  
@@ -111,6 +117,8 @@ A complete daily plan for studying to become a machine learning engineer.
 [**中国独立开发者项目列表**][34]  
 分享大家都在做什么  
 
+[**English-level-up-tips-for-Chinese**][49]  
+可能是让你受益匪浅的英语进阶指南  
 
 
 
@@ -162,3 +170,6 @@ A complete daily plan for studying to become a machine learning engineer.
 [45]: https://github.com/square/retrofit
 [46]: https://github.com/facebook/react
 [47]: https://github.com/fengdu78/deeplearning_ai_books
+[48]: https://github.com/liuyubobobo/Play-with-Data-Structures
+[49]: https://github.com/byoungd/English-level-up-tips-for-Chinese
+[50]: https://github.com/crossoverJie/JCSprout
