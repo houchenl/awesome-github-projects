@@ -40,6 +40,9 @@ Simple and comprehensive tutorials in TensorFlow [http://www.easy-tensorflow.com
 [**Deep-Learning-21-Examples**][32]  
 《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码  
 
+[**deeplearning_ai_books**][47]  
+吴恩达老师的深度学习课程笔记及资源  
+
 
 ## Java
 [**Java学习面试指南**][22]  
@@ -158,3 +161,4 @@ A complete daily plan for studying to become a machine learning engineer.
 [44]: https://github.com/joelittlejohn/jsonschema2pojo
 [45]: https://github.com/square/retrofit
 [46]: https://github.com/facebook/react
+[47]: https://github.com/fengdu78/deeplearning_ai_books
