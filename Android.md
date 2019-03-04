@@ -20,7 +20,7 @@ Andorid 任意界面悬浮窗，实现悬浮窗如此简单 [https://www.jianshu
 [**FloatWindowPermission**][24]  
 this repository is aimed to adapt android float window permission in most kinds of mobiles and how to request it at runtime  
 
-[FloatMenuSample][25]  
+[**FloatMenuSample**][25]  
 android 悬浮窗菜单，可在launcher或app中使用  
 
 [**MusicBobber**][17]  
@@ -73,6 +73,9 @@ Type-safe HTTP client for Android and Java by Square, Inc. [http://square.github
 [**RxjavaRetrofitDemo**][43]  
 A demo show how to use Retrofit with Rxjava  
 
+[socket.io-client-java][32]  
+Full-featured Socket.IO Client Library for Java, which is compatible with Socket.IO v1.0 and later. [http://socketio.github.io/socket.io-c…](http://socketio.github.io/socket.io-client-java)  
+
 
 ## Database
 [**wcdb**][5]  
@@ -113,6 +116,9 @@ Android端心跳服务与进程保活
 [**NotificationPageHelper**][29]  
 通知栏权限设置页面跳转器，根据不同 api 版本和机型跳转到最深可以到的设置页  
 
+[**Trojan**][33]  
+Trojan is an efficient mobile terminal lightweight log SDK  
+
 
 ## Utils
 [**android-common**][40]  
@@ -123,6 +129,10 @@ Android Common Utils or Helper. Such as Log, Averager, Base64, Check, FlashLight
 [**UVCCamera**][37]  
 library and sample to access to UVC web camera on non-rooted Android device  
 
+
+## Tools
+[**android-classyshark**][31]  
+Analyse your Android app (APK)  
 
 ## Projects
 [**Timber**][7]  
@@ -167,6 +177,9 @@ Android online music player use okhttp&gson&material design
 [28]: https://github.com/flutter/flutter
 [29]: https://github.com/Labmem003/NotificationPageHelper
 [30]: https://github.com/wangchenyan/ponymusic
+[31]: https://github.com/google/android-classyshark
+[32]: https://github.com/socketio/socket.io-client-java
+[33]: https://github.com/eleme/Trojan
 [37]: https://github.com/saki4510t/UVCCamera
 [39]: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
 [40]: https://github.com/litesuits/android-common

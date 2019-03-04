@@ -46,6 +46,10 @@ Simple and comprehensive tutorials in TensorFlow [http://www.easy-tensorflow.com
 [**deeplearning_ai_books**][47]  
 吴恩达老师的深度学习课程笔记及资源  
 
+[**faceswap**][51]  
+Non official project based on original /r/Deepfakes thread. Many thanks to him! https://www.reddit.com/r/deepfakes/  
+换脸技术  
+
 
 ## Java
 [**Java学习面试指南**][22]  
@@ -173,3 +177,4 @@ A complete daily plan for studying to become a machine learning engineer.
 [48]: https://github.com/liuyubobobo/Play-with-Data-Structures
 [49]: https://github.com/byoungd/English-level-up-tips-for-Chinese
 [50]: https://github.com/crossoverJie/JCSprout
+[51]: https://github.com/deepfakes/faceswap
