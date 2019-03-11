@@ -31,17 +31,32 @@ Awesome Audio Widget for any Android Music App [https://www.cleveroad.com](https
 [**ZoomPreviewPicture**][19]  
 拓展性极高类似微信图片和视频浏览,常见应用场景如微信朋友圈照片九宫格和微信聊天图片图片,视频,gif预览  
 
-[**PhotoViewer**][14]  
-一个仿微信朋友圈的图片查看器，使用超级简单！  
-
 [**ImageWatcher**][38]  
 高仿微信可拖拽返回  
+
+[**ImageWatcher**][46]  
+一种无缝顺畅的动画切换到图片查看的界面，同样以一种无缝顺畅的动画退出图片查看界面，支持多图查看，快速翻页，双击放大，单击退出，双手缩放旋转图片，下拽退出查看图片的操作，以及效果是本View的最大卖点(仿微信)  
+
+[**DragPhotoView**][34]  
+A photoView to scale image and finish activity，高仿微信可拖拽返回PhotoView  
+
+[**Diooto**][36]  
+微博,微信图库效果,微信视频拖放效果,适配状态栏 、屏幕旋转 、全屏 、长图、GIF、视频  
+
+[**MNImageBrowser**][44]  
+一个图片浏览框架,类似微信图片浏览,手势向下滑动关闭,图片加载引擎自定义,支持长按,单击监听,切换监听,自定义任意的遮罩层，实现各种效果,支持横竖屏切换,简单方便。  
+
+[**PhotoViewer**][14]  
+一个仿微信朋友圈的图片查看器，使用超级简单！  
 
 [**Matisse**][41]  
 A well-designed local image and video selector for Android  
 
 [**ImagePicker**][18]  
 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数  
+
+[**Luban**][35]  
+Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法  
 
 
 ### ListView
@@ -183,6 +198,9 @@ Android online music player use okhttp&gson&material design
 [31]: https://github.com/google/android-classyshark
 [32]: https://github.com/socketio/socket.io-client-java
 [33]: https://github.com/eleme/Trojan
+[34]: https://github.com/githubwing/DragPhotoView
+[35]: https://github.com/Curzibn/Luban
+[36]: https://github.com/moyokoo/Diooto
 [37]: https://github.com/saki4510t/UVCCamera
 [38]: https://github.com/iielse/ImageWatcher
 [39]: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
@@ -190,4 +208,6 @@ Android online music player use okhttp&gson&material design
 [41]: https://github.com/zhihu/Matisse
 [42]: https://github.com/aritraroy/UltimateAndroidReference
 [43]: https://github.com/tough1985/RxjavaRetrofitDemo
+[44]: https://github.com/maning0303/MNImageBrowser
 [45]: https://github.com/square/retrofit
+[46]: https://github.com/byc4426/ImageWatcher
