@@ -30,6 +30,12 @@ Awesome Audio Widget for any Android Music App [https://www.cleveroad.com](https
 ### Image
 
 #### Photo Viewer
+[**chrisbanes/PhotoView(14906)**][47]  
+Implementation of ImageView for Android that supports zooming, by various touch gestures.  
+
+[**bm-x/PhotoView(2198)**][48]  
+图片浏览缩放控件  
+
 [**DragPhotoView(1436)**][34]  
 A photoView to scale image and finish activity，高仿微信可拖拽返回PhotoView  
 
@@ -215,3 +221,5 @@ Android online music player use okhttp&gson&material design
 [44]: https://github.com/maning0303/MNImageBrowser
 [45]: https://github.com/square/retrofit
 [46]: https://github.com/byc4426/ImageWatcher
+[47]: https://github.com/chrisbanes/PhotoView
+[48]: https://github.com/bm-x/PhotoView
