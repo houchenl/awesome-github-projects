@@ -34,6 +34,9 @@ Awesome Audio Widget for any Android Music App [https://www.cleveroad.com](https
 [**PhotoViewer**][14]  
 一个仿微信朋友圈的图片查看器，使用超级简单！  
 
+[**ImageWatcher**][38]  
+高仿微信可拖拽返回  
+
 [**Matisse**][41]  
 A well-designed local image and video selector for Android  
 
@@ -181,6 +184,7 @@ Android online music player use okhttp&gson&material design
 [32]: https://github.com/socketio/socket.io-client-java
 [33]: https://github.com/eleme/Trojan
 [37]: https://github.com/saki4510t/UVCCamera
+[38]: https://github.com/iielse/ImageWatcher
 [39]: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
 [40]: https://github.com/litesuits/android-common
 [41]: https://github.com/zhihu/Matisse
